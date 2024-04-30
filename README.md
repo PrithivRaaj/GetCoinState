@@ -13,6 +13,7 @@ Input:
 
 
 T
+
 10
 
 
@@ -32,6 +33,7 @@ Input:
 
 
 T
+
 5
 
 
@@ -46,11 +48,18 @@ Explanation: The coin is initially in tails state, and is flipped 5 times, after
 Sample input
 
 H
+
 19
+
+
 Sample Output
 
 T
+
+
 Instructions :
+
+
 ﻿﻿This is a template based question, DO NOT write the "main" function.
 ﻿﻿Your code is judged by an automated system, do not write any additional welcome/greeting messages.
 ﻿﻿"Save and Test" only checks for basic test cases, more rigorous cases will be used to judge your code while scoring.
