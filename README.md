@@ -1,5 +1,5 @@
 # GetCoinState
-The function accepts the initial state of a coin 'state' and number of times it is flipped 'n', as input. Implement the function to determine the final state of the coin after it has been flipped n A coin can be in either of the two states, headsH) or tailsT). Flipping the coin means reversing its state i.e. if it is currently in heads state, after flipping it will be in tails state. You are given a function, char GetCoinState(char state, int n);
+The function accepts the initial state of a coin 'state' and number of times it is flipped 'n', as input. Implement the function to determine the final state of the coin after it has been flipped n A coin can be in either of the two states, headsH) or tailsT). Flipping the coin means reversing its state i.e. if it is currently in heads state, after flipping it will be in tails state. You are given a function,char GetCoinState(char state, int n);
 times from the given initial state. Return the upper case character 'H' or 'T' if your answer is heads or tails respectively.
 
 
